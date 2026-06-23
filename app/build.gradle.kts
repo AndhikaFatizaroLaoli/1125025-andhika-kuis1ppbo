@@ -35,7 +35,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = "pbodatabase.App"
+    mainClass = "pbokuis1.App"
 }
 
 tasks.named<Test>("test") {
